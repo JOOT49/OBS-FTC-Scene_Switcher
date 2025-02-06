@@ -10,6 +10,7 @@ A scene switcher for OBS using the FTCLive websocket API and the OBS-Websocket-P
 - Customizable OBS websocket and scene settings
 - 2/3/4 field support
 - Skips finals and practice matches
+- Incredibly buggy and confusing logging
 
 
 ## Instructions
@@ -37,13 +38,14 @@ Run the program
 
 ## Roadmap
 
-- Fix the youtube description CSV
+- Fix the YouTube description CSV
 
-- Fix the youtube description TXT
+- Fix the YouTube description TXT
+- Fix preview scene issues
 
 - Add a GUI
 
-- More logging
+- More and better logging
 
 - Move away from python
 
