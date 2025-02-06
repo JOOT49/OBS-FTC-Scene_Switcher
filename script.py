@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Direct conversion of FTC_OBS_SceneSwitches_Main.ps1 and FTC_OBS_SceneSwitches_v2_RUNME.ps1 into Python,
-using obs-websocket-py for OBS communication.
-DO NOT change how anything is called.
-"""
 
 import os
 import time
