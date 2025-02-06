@@ -16,11 +16,6 @@ import subprocess
 import requests
 import queue
 import websocket
-import tkinter as tk
-from tkinter import ttk, scrolledtext
-import threading
-import logging
-from obswebsocket import obsws, requests as obsrequests
 
 
 # Import obs-websocket-py library (version 4)
