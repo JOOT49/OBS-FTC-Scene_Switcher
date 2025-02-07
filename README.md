@@ -13,7 +13,17 @@ A scene switcher for OBS using the FTCLive websocket API and the OBS-Websocket-P
 - Incredibly buggy and confusing logging
 
 
-## Instructions
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  pyinstaller --noconsole --onefile --windowed --icon=icon.ico script.py
+
+```
+
+## Development
 
 Download the python file
 
