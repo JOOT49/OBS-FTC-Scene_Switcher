@@ -32,7 +32,7 @@ Install dependencies
 Run the program
 
 ```bash
-  python script.py
+  python FTC_Switcher.py
 ```
 
 

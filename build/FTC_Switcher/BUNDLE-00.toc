@@ -1,0 +1,3 @@
+([('FTC_Switcher',
+   '/Users/Joshua/PyCharmMiscProject/dist/FTC_Switcher',
+   'EXECUTABLE')],)

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>FTC_Switcher</string>
+	<key>CFBundleExecutable</key>
+	<string>FTC_Switcher</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-a0c13a1d58b094e2bb7b99bb1af314881820c55ea09027f1cc29596236e7d79b.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>FTC_Switcher</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>FTC_Switcher</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
