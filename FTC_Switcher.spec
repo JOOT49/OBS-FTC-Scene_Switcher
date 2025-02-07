@@ -5,7 +5,7 @@ a = Analysis(
     ['FTC_Switcher.py'],
     pathex=[],
     binaries=[],
-    datas=[('intodeep.png', '.')],
+    datas=[],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -36,10 +36,4 @@ exe = EXE(
     codesign_identity=None,
     entitlements_file=None,
     icon=['icon.ico'],
-)
-app = BUNDLE(
-    exe,
-    name='FTC_Switcher.app',
-    icon='icon.ico',
-    bundle_identifier=None,
 )
